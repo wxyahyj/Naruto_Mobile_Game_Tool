@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.NarutoTimer" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#EC137A</item>
+        <item name="colorPrimaryVariant">#C10E66</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">#25B7A8</item>
+        <item name="colorSecondaryVariant">#1E9A8D</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor">#EC137A</item>
+    </style>
+</resources>
